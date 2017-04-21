@@ -1,0 +1,22 @@
+{
+  "name": "easylib",
+  "version": "1.0.0",
+  "description": "Gets random book name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaAlina/easylib.git"
+  },
+  "author": "Ananyiva Alina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VaAlina/easylib/issues"
+  },
+  "homepage": "https://github.com/VaAlina/easylib#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
