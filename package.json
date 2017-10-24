@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VaAlina/easylib.git"
+    "url": "git+https://github.com/octomauschen/easylib.git"
   },
   "author": "Ananyiva Alina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/VaAlina/easylib/issues"
+    "url": "https://github.com/octomauschen/easylib/issues"
   },
-  "homepage": "https://github.com/VaAlina/easylib#readme",
+  "homepage": "https://github.com/octomauschen/easylib#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   }
